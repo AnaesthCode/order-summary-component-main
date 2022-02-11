@@ -53,6 +53,7 @@ Users should be able to:
 - Tried to use semantic HTML5 markup. Not sure if the footer should've been reserved for the attribution-div included by frontendmentor.
 - CSS flexbox.
 - Struggled a bit with the pricing info, getting everything correctly placed. Ended up using CSS-grid.
+- No clear structure on when to use rem, em or px for sizing.
 
 
 
